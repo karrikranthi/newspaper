@@ -1,0 +1,82 @@
+h6
+{
+    text-align: end;
+}
+img
+{
+    width: 417px;
+    height: 350px;
+    float: right;
+    border-bottom: 100px;
+}
+.krk
+{
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+hr
+{
+    margin-top: -7px;
+}
+.hrr
+{
+    margin-top: -22px;
+}
+.hr1
+{
+    margin-top: 10px;
+}
+.para
+{
+    font-size: x-large;
+    margin-top: -87px;
+}
+.img1 img
+{
+    float: left;
+    width: -1252%;
+    height: 180px;
+}
+.img2 img
+{
+    float: right;
+    height: 180px;
+    margin: 10px;
+}
+.img3 img
+{
+    float: left ;
+    height: 180px;
+}
+.img4 img td
+{
+    height: 180px;
+    margin: 10px;
+    width: 100px;
+    margin-top: -100px;
+}
+.img5 td img
+{
+    height: 180px;
+    margin: 10px;
+    width: 100px;
+}
+.img6 img
+{
+    height: 180px;
+    margin: 10px;
+    width: 100px;
+    float: left;
+}
+.img7 img
+{
+    height: 180px;
+    margin: 10px;
+    width: 100px;
+}
+
+.pm
+
+{
+    margin-left: 0px;
+}
